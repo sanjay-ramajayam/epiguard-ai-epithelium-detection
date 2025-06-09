@@ -1,0 +1,205 @@
+{
+  "greeting": [
+    {
+      "question": "Halo",
+      "answer": "Halo! Ada yang bisa saya bantu tentang penyakit kulit?"
+    },
+    {
+      "question": "Selamat pagi",
+      "answer": "Selamat pagi! Ada yang bisa saya bantu tentang penyakit kulit?"
+    },
+    {
+      "question": "Selamat siang",
+      "answer": "Selamat siang! Ada yang bisa saya bantu tentang penyakit kulit?"
+    },
+    {
+      "question": "Selamat malam",
+      "answer": "Selamat malam! Ada yang bisa saya bantu tentang penyakit kulit?"
+    },
+    {
+      "question": "Tolong bantu aku",
+      "answer": "Ada yang bisa aku bantu? Silakan tanyakan saja."
+    }
+  ],
+  "fitur_aplikasi": [
+  {
+    "question": "Bagaimana cara menggunakan fitur deteksi gambar?",
+    "answer": "Kamu cukup mengunggah foto kulit yang ingin diperiksa, lalu DermaBot akan memproses gambar dan memberikan prediksi jenis penyakit kulit."
+  },
+  {
+    "question": "Apa itu chatbot FAQ?",
+    "answer": "Chatbot FAQ adalah fitur untuk bertanya seputar penyakit kulit. DermaBot akan menjawab berdasarkan kumpulan pertanyaan dan jawaban yang telah disusun oleh tim."
+  },
+  {
+    "question": "Apakah data gambar saya disimpan?",
+    "answer": "Tidak, gambar yang kamu unggah hanya digunakan sementara untuk proses deteksi dan tidak disimpan oleh sistem."
+  }
+  ],
+  "tentang_dermabot": [
+  {
+    "question": "Siapa itu DermaBot?",
+    "answer": "DermaBot adalah asisten virtual yang dirancang untuk membantu Anda mengenali penyakit kulit melalui deteksi gambar dan menjawab pertanyaan umum seputar kesehatan kulit."
+  },
+  {
+    "question": "Apa yang bisa dilakukan DermaBot?",
+    "answer": "DermaBot dapat membantu Anda memprediksi jenis penyakit kulit dari gambar serta memberikan informasi dan edukasi melalui chatbot interaktif."
+  },
+  {
+    "question": "Bagaimana cara kerja DermaBot?",
+    "answer": "DermaBot menggunakan teknologi deep learning untuk memproses gambar dan memprediksi jenis penyakit kulit, serta memanfaatkan data FAQ untuk menjawab pertanyaan secara otomatis."
+  },
+  {
+    "question": "Apakah DermaBot bisa menggantikan dokter?",
+    "answer": "Tidak, DermaBot hanya memberikan prediksi awal dan informasi umum. Untuk diagnosis dan pengobatan yang tepat, konsultasikan dengan dokter kulit."
+  }
+],
+  "penyakit": [
+    {
+      "question": "Apakah melanoma bisa disembuhkan?",
+      "answer": "Jika terdeteksi sejak dini, melanoma dapat disembuhkan melalui pengangkatan secara medis. Namun, jika sudah menyebar, pengobatan akan lebih kompleks."
+    },
+    {
+      "question": "Apa itu melanoma?",
+      "answer": "Melanoma adalah jenis kanker kulit yang paling serius dan berbahaya. Ini berkembang pada sel penghasil pigmen (melanosit) dan dapat menyebar ke bagian tubuh lainnya."
+    },
+    {
+      "question": "Apa itu basal cell carcinoma?",
+      "answer": "Basal Cell Carcinoma adalah jenis kanker kulit yang tumbuh sangat lambat dan jarang menyebar. Meskipun jarang menyebabkan kematian, tetapi bisa merusak jaringan kulit sekitar."
+    },
+    {
+      "question": "Apa itu actinic keratosis?",
+      "answer": "Actinic Keratosis adalah lesi kulit yang terbentuk akibat paparan sinar matahari berlebihan. Lesi ini berpotensi berkembang menjadi kanker kulit jika tidak diobati."
+    },
+    {
+      "question": "Apa itu benign keratosis?",
+      "answer": "Benign Keratosis-like lesions adalah benjolan kulit jinak yang tidak berbahaya dan biasanya tidak memerlukan pengobatan kecuali jika terjadi iritasi atau perubahan bentuk."
+    },
+    {
+      "question": "Apa itu dermatofibroma?",
+      "answer": "Dermatofibroma adalah benjolan kulit jinak yang sering muncul di kaki dan lengan. Benjolan ini tidak berbahaya dan biasanya tidak memerlukan perawatan."
+    },
+    {
+      "question": "Apa itu melanocytic nevi?",
+      "answer": "Melanocytic Nevi atau tahi lalat adalah pembentukan pigmen kulit yang umumnya tidak berbahaya. Namun, jika bentuk atau warnanya berubah, harus segera diperiksa oleh dokter."
+    },
+    {
+      "question": "Apa itu vascular lesion?",
+      "answer": "Vascular lesions adalah kondisi di mana pembuluh darah pada kulit berkembang secara abnormal, sering kali berupa bercak merah atau biru. Mereka biasanya tidak berbahaya, tetapi beberapa jenis bisa memerlukan pengobatan."
+    }
+  ],
+  "gejala": [
+    {
+      "question": "Apa tanda-tanda kanker kulit stadium awal?",
+      "answer": "Tanda awal termasuk benjolan yang tak sembuh-sembuh, bercak bersisik, atau perubahan bentuk dan warna pada tahi lalat."
+    },
+    {
+      "question": "Gejala melanoma apa saja?",
+      "answer": "Gejala melanoma meliputi perubahan bentuk atau warna tahi lalat, perdarahan, gatal atau rasa sakit, dan munculnya tahi lalat baru yang tidak biasa."
+    },
+    {
+      "question": "Gejala basal cell carcinoma?",
+      "answer": "Gejala basal cell carcinoma meliputi benjolan kecil berwarna kulit atau merah muda yang bisa terluka dan sulit sembuh. Biasanya muncul di area yang sering terpapar matahari seperti wajah dan leher."
+    },
+    {
+      "question": "Gejala actinic keratosis?",
+      "answer": "Gejala actinic keratosis meliputi munculnya kulit kasar, bersisik, dan kemerahan di area yang sering terpapar sinar matahari."
+    },
+    {
+      "question": "Gejala benign keratosis?",
+      "answer": "Gejala benign keratosis termasuk benjolan kulit keras yang bisa berwarna coklat atau hitam. Biasanya tidak berbahaya dan hanya perlu pengobatan jika menimbulkan rasa sakit atau iritasi."
+    },
+    {
+      "question": "Gejala dermatofibroma?",
+      "answer": "Gejala dermatofibroma adalah benjolan keras dan kecil yang biasanya muncul pada kulit yang terpapar sinar matahari, seperti lengan atau kaki."
+    }
+  ],
+  "pencegahan": [
+    {
+      "question": "Bagaimana cara mencegah kanker kulit?",
+      "answer": "Hindari paparan sinar matahari langsung, terutama pada jam-jam puncak. Gunakan pelindung kulit seperti tabir surya dengan SPF tinggi dan pakaian pelindung."
+    },
+    {
+      "question": "Apa yang harus dilakukan jika ada tahi lalat baru?",
+      "answer": "Jika kamu menemukan tahi lalat baru atau ada perubahan pada tahi lalat yang sudah ada, segera periksakan ke dokter kulit untuk pemeriksaan lebih lanjut."
+    },
+    {
+      "question": "Apakah penggunaan tabir surya penting?",
+      "answer": "Ya, penggunaan tabir surya sangat penting untuk melindungi kulit dari sinar UV yang berbahaya. Pastikan menggunakan tabir surya dengan SPF 30 atau lebih dan aplikasikan kembali setiap 2 jam."
+    }
+  ],
+  "perawatan": [
+    {
+      "question": "Bagaimana cara merawat kulit yang terbakar sinar matahari?",
+      "answer": "Untuk merawat kulit yang terbakar sinar matahari, gunakan pelembap yang mengandung lidah buaya atau krim yang menenangkan. Hindari paparan lebih lanjut dan minum banyak air untuk membantu proses penyembuhan."
+    },
+    {
+      "question": "Apa saja perawatan untuk melanoma?",
+      "answer": "Perawatan untuk melanoma termasuk operasi pengangkatan tumor, kemoterapi, terapi radiasi, dan imunoterapi, tergantung pada tingkat keparahannya."
+    },
+    {
+      "question": "Apa yang harus dilakukan jika mengalami luka pada kulit?",
+      "answer": "Untuk luka pada kulit, bersihkan area tersebut dengan lembut menggunakan air dan sabun, lalu tutup dengan perban bersih. Jika luka tidak sembuh atau semakin parah, segera hubungi dokter."
+    },
+    {
+      "question": "Bagaimana cara menjaga kulit tetap sehat?",
+      "answer": "Gunakan tabir surya setiap hari, minum air putih yang cukup, tidur cukup, dan konsumsi makanan bergizi."
+    },
+    {
+      "question": "Apa tips skincare untuk kulit sensitif?",
+      "answer": "Gunakan produk tanpa pewangi, lakukan patch test sebelum mencoba produk baru, dan hindari eksfoliasi berlebihan."
+    },
+    {
+      "question": "Berapa kali sebaiknya mencuci wajah dalam sehari?",
+      "answer": "Dua kali sehari, pagi dan malam. Jika terlalu sering, bisa menyebabkan kulit kering atau iritasi."
+    }
+  ],
+  "sumber_daya": [
+    {
+      "question": "Dimana saya bisa memeriksakan kulit saya?",
+      "answer": "Kamu dapat memeriksakan kulit ke dokter kulit di rumah sakit atau klinik dermatologi terdekat. Jika diperlukan, dokter akan melakukan biopsi atau tes lainnya."
+    },
+    {
+      "question": "Adakah situs web untuk informasi lebih lanjut tentang kanker kulit?",
+      "answer": "Ya, kamu bisa mengunjungi situs web seperti [www.kankerkulit.org](https://www.kankerkulit.org) atau [www.cancer.gov](https://www.cancer.gov) untuk informasi lebih lanjut."
+    }
+  ],
+  "informasi_umum": [
+    {
+      "question": "Apa itu penyakit kulit?",
+      "answer": "Penyakit kulit adalah gangguan atau kondisi medis yang memengaruhi kulit, yang dapat mencakup iritasi, infeksi, hingga kondisi kronis seperti kanker kulit."
+    },
+    {
+      "question": "Apa saja macam-macam penyakit kulit?",
+      "answer": "Beberapa jenis penyakit kulit yang umum termasuk jerawat, dermatitis, eksim, psoriasis, melanoma, dan basal cell carcinoma."
+    },
+    {
+      "question": "Apa penyebab umum penyakit kulit?",
+      "answer": "Penyebab penyakit kulit bisa beragam, termasuk infeksi bakteri, virus, jamur, alergi, faktor genetik, stres, dan paparan sinar matahari yang berlebihan."
+    }
+  ],
+  "peringatan_medis": [
+    {
+      "question": "Apakah hasil dari DermaBot selalu akurat?",
+      "answer": "Tidak selalu. DermaBot adalah alat bantu awal dan bukan pengganti diagnosis dokter. Hasil yang diberikan sebaiknya dijadikan pertimbangan awal sebelum konsultasi ke dokter kulit."
+    },
+    {
+      "question": "Kapan harus ke dokter kulit?",
+      "answer": "Jika kamu melihat perubahan mencurigakan pada kulit seperti benjolan, luka tak sembuh, atau perubahan pada tahi lalat, segera periksakan ke dokter kulit."
+    }
+  ],
+  "blacklist": [
+    "anjing",
+    "idiot",
+    "bodoh",
+    "goblok",
+    "kampret",
+    "babi",
+    "perek",
+    "pelacur",
+    "tai",
+    "bangsat",
+    "anjg",
+    "bdh",
+    "bgst"
+  ]
+}
